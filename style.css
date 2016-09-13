@@ -1,0 +1,51 @@
+body{
+   background:black;
+   background-image: url(taart.jpg);
+   background-repeat: no-repeat;
+   background-size:cover;
+}
+ h3, h4, h2 {
+    text-align: center;
+    color:blue ;
+    font-size:20pt;  
+}
+h1{
+    text-align: center;
+    color:blue;
+    font-size:30pt;
+}
+p {
+    text-align: center;
+    color:black ;
+    font-size:18pt;
+
+}
+li{
+	text-align: center;
+    color:white ;
+    font-size:16pt;
+}
+.intro {
+	text-align: center;
+	color:blue;
+	font-size:20pt;
+}
+ul { 
+	display:table; 
+	margin:0 auto;
+
+}
+
+/*div.foto{
+	position: relative;
+	left: 1400px;
+	width: 200px;
+	height:150px;
+	padding: 0px;
+	border:5px solid blue;
+	margin:0px;
+}
+*/
+ul.ing{
+	background-color: rgba(33,33,33,0.7);
+}
